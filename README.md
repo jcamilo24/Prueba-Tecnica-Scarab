@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> c70ed3355544169f803f1659426d8291c4b65e77
 # proyecto_movil_paises
 
 Proyecto movil para prueba tecnica Scarab
@@ -20,13 +16,4 @@ Tambien en la app hay una comparacion entre los paises que se seleccionaron para
 Se utilizo herramientas como AI para solucionar errores sobre librerias que antes utilice y no me funcionaban ciertos detalles que no entendia...
 - use ChatGPT para obtener una aclaracion en porque me estaba saliendo un error al compilar la app cuando implemente cierta libreria de graficos
 
-<<<<<<< HEAD
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Prueba-Tecnica-Scarab
->>>>>>> 5833be5a055af5045dd96d65cbc8beb6e191c029
-=======
 Tuve como algunas ideas de diseño para la presentacion como por ejemplo colores y manejo dinamico como en los tabs, fue idea mia hacer ese estilo del Tab Custom y darle ese color, tambien realmente los containers los hice un poco diferentes, una mejora a futuro si seria mejor el diseño el grafico de barras para una vista mucho mas amigable al usuario.
->>>>>>> c70ed3355544169f803f1659426d8291c4b65e77
