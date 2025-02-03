@@ -54,35 +54,35 @@ class _TabBarCustomState extends State<TabBarCustom>
               child: Center(
                   child: Text(
                 widget.item1,
-                style: const TextStyle(color: Color(0xFF59408C)),
+                style: TextStyle(color: Colors.blue.shade800),
               )),
             ),
             Tab(
               child: Center(
                   child: Text(
                 widget.item2,
-                style: const TextStyle(color: Color(0xFF59408C)),
+                style: TextStyle(color: Colors.blue.shade800),
               )),
             ),
             Tab(
               child: Center(
                   child: Text(
                 widget.item3,
-                style: const TextStyle(color: Color(0xFF59408C)),
+                style: TextStyle(color: Colors.blue.shade800),
               )),
             ),
             Tab(
               child: Center(
                   child: Text(
                 widget.item4,
-                style: const TextStyle(color: Color(0xFF59408C)),
+                style: TextStyle(color: Colors.blue.shade800),
               )),
             ),
             Tab(
               child: Center(
                   child: Text(
                 widget.item5,
-                style: const TextStyle(color: Color(0xFF59408C)),
+                style: TextStyle(color: Colors.blue.shade800),
               )),
             )
           ],

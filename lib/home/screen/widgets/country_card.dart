@@ -30,6 +30,7 @@ class CountryCard extends StatelessWidget {
               _onCountryTap(context, country);
             },
             trailing: Checkbox(
+              activeColor: Colors.blue.shade800,
               value: countryViewModel.getCheckedState(country.code),
               onChanged: (bool? value) {
                 countryViewModel.setChecked(country, value ?? false);
